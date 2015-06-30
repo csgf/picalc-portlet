@@ -1,5 +1,5 @@
 *******************
-picalc-portlet
+PICALC
 *******************
 
 ============
@@ -11,7 +11,7 @@ About
    :target: https://gilda.ct.infn.it 
 -------------
 
-The **picalc-portlet** consists of a portlet example able to submit a paralle MPI job that calculates the PI into one or more distributed infrastructures (DCIs). This portlet contains almost all GUI elements to provide a complete input interface together with the necessary code to deal with DCIs settings, portlet preferences etc. The aim of this portlet is to use its code as a template that Science Gateway developers may customize to fit their own specific requirements. To faciciltate the customization process, a customize.sh bash script is included inside the source code package.
+The **PICALC** consists of a portlet example able to submit a paralle MPI job that calculates the PI into one or more distributed infrastructures (DCIs). This portlet contains almost all GUI elements to provide a complete input interface together with the necessary code to deal with DCIs settings, portlet preferences etc. The aim of this portlet is to use its code as a template that Science Gateway developers may customize to fit their own specific requirements. To faciciltate the customization process, a customize.sh bash script is included inside the source code package.
 
 ============
 Installation
@@ -58,7 +58,7 @@ Following buttons: Demo, Submit, Reset values and About are respectively:
 
 
 ============
-Support
+Contributor(s)
 ============
 To get support such as reporting a bug, a problem or even request new features, please contact
 
@@ -71,5 +71,3 @@ To get support such as reporting a bug, a problem or even request new features, 
  `Riccardo BRUNO <mailto:riccardo.bruno@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
 
  
-:Version: v1.0
-
